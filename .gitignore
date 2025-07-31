@@ -1,0 +1,9 @@
+/.conda
+/.venv
+/.vscode
+/database.py
+/PLACEMENT_APP.PY
+/placement_data.db
+/placement_eligibility.db
+/SQT.ipynb
+/__pycache__
